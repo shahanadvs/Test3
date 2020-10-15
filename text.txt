@@ -1,7 +1,11 @@
 Hello
+<<<<<<< HEAD
 hi
 bye
 h
 1
 nnew brach
 jjj
+=======
+hi
+>>>>>>> parent of cc2db1d... Update text.txt
